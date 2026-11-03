@@ -46,43 +46,34 @@ const aditya = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="55%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/adityaasinghhh/adityaasinghhh/main/assets/tech-globe.svg" width="560" alt="Revolving globe of my tech stack"/>
+<img src="https://raw.githubusercontent.com/adityaasinghhh/adityaasinghhh/main/assets/tech-globe.svg" width="480" alt="Revolving globe of my tech stack"/>
 
-<details>
-<summary><b>📋 View full stack by category</b></summary>
-<br/>
+</td>
+<td width="45%" align="center" valign="middle">
 
-<div align="center">
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java" /><br/><br/>
 
-**Languages**
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java" />
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma" /><br/><br/>
 
-**Frontend**
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" /><br/>
+<code>Gemini API</code> · <code>Scikit-learn</code> · <code>XGBoost</code> · <code>NLP</code> · <code>LangChain</code><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-
-`Gemini API` · `Scikit-learn` · `XGBoost` · `NLP` · `LangChain`
-
-**DevOps & Tools**
-
+**DevOps & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vscode,postman" />
 
-</div>
-
-</details>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -178,15 +169,31 @@ Full-stack travel platform for accommodation discovery, user interactions and bo
 
 ---
 
-## 🤝 Let's Connect
+## 🌟 Thought of the Day 🌟
 
 <div align="center">
+<img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=The%20weak%20can%20never%20forgive.%20Forgiveness%20is%20the%20attribute%20of%20the%20strong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Thought of the day"/>
+</div>
+
+---
+
+## 🤝 Connect With Me 🤝
+
+<div align="center">
+
+<a href="mailto:adityasinghjvm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail"/></a>
+&nbsp;
+<a href="https://www.instagram.com/iadityasinghrajput_/"><img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram"/></a>
+&nbsp;
+<a href="https://github.com/adityaasinghhh"><img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aditya-singh-ba5289253"><img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/></a>
+
+<br/><br/>
 
 **Open to learning, collaboration, and exciting engineering opportunities.**
 
 📫 **adityasinghjvm@gmail.com**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+great+together" />
 
 </div>
 
