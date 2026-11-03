@@ -25,22 +25,27 @@
 
 ## 👨‍💻 About Me
 
-```js
-const aditya = {
-  role: ["Full-Stack Developer", "AI Engineer"],
-  education: "Computer Science Engineering",
-  focus: ["MERN Stack", "AI-powered apps", "Scalable backends", "ML & NLP"],
-  currentlyLearning: ["Data Structures & Algorithms", "Data Engineering", "LangChain"],
-  openTo: ["Collaboration", "Internships / Jobs", "Open-source"],
-  funFact: "I ship projects faster than I finish my coffee ☕"
-};
-```
+<table align="center">
+<tr>
+<td width="58%" align="center" valign="middle">
 
-- 🔭 Building full-stack applications with the **MERN stack**
-- 🤖 Developing **AI-powered apps** and intelligent workflows
-- ⚙️ Designing **REST APIs** and backend services
-- 📊 Exploring **Machine Learning, NLP & Data Engineering**
-- 🧠 Practicing **DSA** consistently
+<img src="https://raw.githubusercontent.com/adityaasinghhh/adityaasinghhh/main/assets/terminal-about.svg" width="520" alt="Terminal about me"/>
+
+</td>
+<td width="42%" valign="middle">
+
+### Hey, I'm Aditya 👋
+
+I build **full-stack apps** and **AI-powered products**: from REST APIs and scalable backends to intelligent workflows that actually ship.
+
+<img src="https://img.shields.io/badge/Open_to-Opportunities-4ade80?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-LangChain-a78bfa?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building-Nexora_AI-24c6dc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Practicing-DSA-fbbf24?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
