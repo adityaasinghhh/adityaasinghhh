@@ -48,6 +48,14 @@ const aditya = {
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/adityaasinghhh/adityaasinghhh/main/assets/tech-globe.svg" width="560" alt="Revolving globe of my tech stack"/>
+
+<details>
+<summary><b>📋 View full stack by category</b></summary>
+<br/>
+
+<div align="center">
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java" />
@@ -69,6 +77,10 @@ const aditya = {
 **DevOps & Tools**
 
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vscode,postman" />
+
+</div>
+
+</details>
 
 </div>
 
