@@ -133,11 +133,6 @@ Full-stack travel platform for accommodation discovery, user interactions and bo
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityaasinghhh&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophies"/>
-</div>
 
 ---
 
@@ -168,16 +163,12 @@ Full-stack travel platform for accommodation discovery, user interactions and bo
 
 ---
 
-## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaasinghhh&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
----
 
 ## 🌟 Thought of the Day 🌟
 
 <div align="center">
-<img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=The%20weak%20can%20never%20forgive.%20Forgiveness%20is%20the%20attribute%20of%20the%20strong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Thought of the day"/>
+<img src="https://readme-daily-quotes.vercel.app/api?author=Will%20Durant&quote=We%20are%20what%20we%20repeatedly%20do.%20Excellence%2C%20then%2C%20is%20not%20an%20act%2C%20but%20a%20habit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Thought of the day"/>
 </div>
 
 ---
